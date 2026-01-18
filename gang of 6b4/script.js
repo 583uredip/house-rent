@@ -14,8 +14,8 @@ const FIXED_BILLS = {
 };
 
 const ADMIN_CRED = {
-    user: 'sikto',
-    pass: 'gusi1234'
+    user: 'admin',
+    pass: 'admin123'
 };
 
 // ==========================================
